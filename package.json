@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "rex-setup-wizard-manager": "^1.0.5"
+  },
+  "devDependencies": {
+    "webpack": "^5.92.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
